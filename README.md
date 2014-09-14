@@ -1,4 +1,4 @@
-flip
+<b> Flip </b>
 ====
 
 
@@ -7,6 +7,6 @@ Stanford University iOS development tutorial. However, this project is unfinishe
 this project and learning Objective-C Apple released Swift language which pulled my attention to it. In futute, I will
 share my projects as well as practice projects in my Github account.
 
-
-Twitter
+----
+Twitter : 
 https://twitter.com/virajbhalala
